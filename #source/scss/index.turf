@@ -1,0 +1,986 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <link rel="stylesheet" href="css/choices.min.css">
+  <link rel="stylesheet" href="css/fancybox.css">
+  <link rel="stylesheet" href="css/style.css">
+  <title>LinkedTech | An exciting place</title>
+</head>
+
+<body>
+  <div class="wrapper">
+    <main class="page">
+      <!-- @import "header.html" -->
+      <div class="main-block">
+        <div class="main-block__container _container">
+          <div class="main-block__body">
+            <div class="main-block__column">
+              <div class="main-block__content">
+                <div class="main-block__subtitle subtitle">Favorite brands</div>
+                <div class="main-block__title"><span>An exciting place</span>
+                  for the whole family to shop.</div>
+                <div class="main-block__text">The standard chunk of Lorem Ipsum used since the 1500s is reproduced below
+                  for those interested.</div>
+                <div class="main-block__buttons">
+                  <a data-fancybox="dialog" data-src="#page-not-found" href="#" class="main-block__button btn">Shop
+                    Now</a>
+                  <div class="main-block__cost-old">
+                    <a href="#" class="main-block__cost">249.99</a>
+                    <span class="main-block__cost-cross">349.99</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="main-block__column">
+              <div class="main-block__image">
+                <img src="img/main-block/01.jpg" alt="">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="logos">
+        <div class="logos__container _container">
+          <div class="logos__body">
+            <div class="logos__items">
+              <div class="logos__item">
+                <img src="img/logos/01.png" alt="">
+              </div>
+            </div>
+            <div class="logos__items">
+              <div class="logos__item">
+                <img src="img/logos/02.png" alt="">
+              </div>
+            </div>
+            <div class="logos__items">
+              <div class="logos__item">
+                <img src="img/logos/03.png" alt="">
+              </div>
+            </div>
+            <div class="logos__items">
+              <div class="logos__item">
+                <img src="img/logos/04.png" alt="">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="style">
+        <div class="style__container _container">
+          <div class="style__body">
+            <div class="style__column">
+              <div class="style__card card-style">
+                <div class="card-style__items">
+                  <div class="card-style__pic">
+                    <div class="card-style__image-cover">
+                      <a href="#" class="card-style__image">
+                        <img src="img/style/01.jpg" alt="">
+                      </a>
+                    </div>
+                    <a href="#" class="card-style__basket"></a>
+                  </div>
+                  <div class="card-style__content">
+                    <a href="#" class="card-style__title">Always in style!</a>
+                    <div class="card-style__text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex amet
+                      facere delectus ipsum neque earum dolores pariatur placeat, asperiores, repudiandae adipisci.
+                    </div>
+                    <div class="card-style__cost cost">
+                      <div class="cost__body">
+                        <div class="cost__main">249.99</div>
+                        <span class="cost__sub">409.99</span>
+                      </div>
+                    </div>
+                    <div class="card-style__stars stars">
+                      <div class="stars__body">
+                        <div class="stars__star stars__star-red"></div>
+                        <div class="stars__star stars__star-red"></div>
+                        <div class="stars__star stars__star-red"></div>
+                        <div class="stars__star stars__star-red"></div>
+                        <div class="stars__star stars__star-blue"></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="style__column">
+              <div class="style__card card-style">
+                <div class="card-style__items">
+                  <div class="card-style__pic">
+                    <div class="card-style__image-cover">
+                      <a href="#" class="card-style__image">
+                        <img src="img/style/02.jpg" alt="">
+                      </a>
+                    </div>
+                    <a href="#" class="card-style__basket"></a>
+                  </div>
+                  <div class="card-style__content">
+                    <a href="#" class="card-style__title">Style anywhere!</a>
+                    <div class="card-style__text">The standard chunk of Lorem Ipsum below for those interested. The
+                      standard chunk of for those interested.</div>
+                    <div class="card-style__cost cost">
+                      <div class="cost__body">
+                        <div class="cost__main">149.99</div>
+                        <span class="cost__sub">299.99</span>
+                      </div>
+                    </div>
+                    <div class="card-style__stars stars">
+                      <div class="stars__body">
+                        <div class="stars__star stars__star-red"></div>
+                        <div class="stars__star stars__star-red"></div>
+                        <div class="stars__star stars__star-red"></div>
+                        <div class="stars__star stars__star-blue"></div>
+                        <div class="stars__star stars__star-blue"></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="getup">
+        <div class="getup__container _container">
+          <div class="getup__body">
+            <div class="getup__column">
+              <a href="#" class="getup__card card-getup">
+                <div class="card-getup__content">
+                  <div class="card-getup__subtitle">Get up to 20% off Today Only!</div>
+                  <div class="card-getup__title">THE 4K HDR COMPACT DRONE</div>
+                  <div class="card-getup__shop-now">Show Now</div>
+                </div>
+                <div class="card-getup__image">
+                  <img src="img/getup/01.png" alt="">
+                </div>
+              </a>
+            </div>
+            <div class="getup__column">
+              <a href="#" class="getup__card card-getup">
+                <div class="card-getup__content">
+                  <div class="card-getup__subtitle">Get up to 20% off Today Only!</div>
+                  <div class="card-getup__title">THE 4K HDR COMPACT Camera</div>
+                  <div class="card-getup__shop-now">Show Now</div>
+                </div>
+                <div class="card-getup__image">
+                  <img src="img/getup/02.png" alt="">
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="about">
+        <div class="about__container _container">
+          <div class="about__body">
+            <div class="about__column">
+              <div class="about__image">
+                <img src="img/about/00.png" alt="">
+              </div>
+            </div>
+            <div class="about__column">
+              <div class="about__content">
+                <div class="about__top top">
+                  <div class="about__subtitle subtitle">about Products</div>
+                  <div class="about__title title">About Our Products</div>
+                </div>
+                <div class="about__bottom">
+                  <div class="about__text">
+                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered
+                      alteration in some form, by injected humour, or randomised words which don't look even slightly
+                      have suffered believable. </p>
+
+                    <p>If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything
+                      embarrassing hidden in the middle of text.</p>
+                  </div>
+                  <div data-da=".about__container, 992, last" data-spollers data-one-spoller
+                    class="about__spollers spollers-about">
+                    <div class="spollers-about__item">
+                      <button tabindex="-1" type="button" data-spoller class="spollers-about__title">There are many
+                        variations of passages of lorem ipsum</button>
+                      <div class="spollers-about__text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                        Dolorem perferendis aperiam exercitationem inventore, repellendus nam omnis, voluptate quas id
+                        minus, dignissimos culpa alias veniam amet voluptatibus ducimus accusantium magni debitis. Lorem
+                        ipsum dolor sit amet consectetur adipisicing elit. Et magni praesentium mollitia excepturi
+                        magnam laboriosam tempora, sint architecto iste ea nesciunt? Officiis neque praesentium
+                        asperiores facilis in ratione minus enim?</div>
+                    </div>
+                    <div class="spollers-about__item">
+                      <button tabindex="-1" type="button" data-spoller class="spollers-about__title">Et magni
+                        praesentium mollitia excepturi</button>
+                      <div class="spollers-about__text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae
+                        non tempore eligendi nisi animi exercitationem expedita aliquam illum iure voluptatem culpa
+                        voluptas molestiae, cum quas pariatur saepe architecto libero distinctio!</div>
+                    </div>
+                    <div class="spollers-about__item">
+                      <button tabindex="-1" type="button" data-spoller class="spollers-about__title">Lorem ipsum dolor
+                        sit amet, consectetur adipisicing elit perferendis aperiam exercitationem</button>
+                      <div class="spollers-about__text">Lorem ipsum dolor sit amet consectetur adipisicing elit. At
+                        ipsum voluptatibus, error minima molestiae similique possimus quo officiis, dolorem iure
+                        dignissimos aspernatur.</div>
+                    </div>
+                    <div class="spollers-about__item">
+                      <button tabindex="-1" type="button" data-spoller class="spollers-about__title">Repellendus nam
+                        omnis, voluptate quas id minus</button>
+                      <div class="spollers-about__text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor
+                        laborum ducimus numquam omnis nulla excepturi reiciendis rem dolorem doloremque incidunt, maxime
+                        eum, reprehenderit, expedita consequatur ad voluptate nisi aut unde. Beatae cupiditate iure
+                        autem labore!</div>
+                    </div>
+                    <div class="spollers-about__item">
+                      <button tabindex="-1" type="button" data-spoller class="spollers-about__title">Dignissimos culpa
+                        alias veniam amet voluptatibus ducimus accusantium magni debitis.</button>
+                      <div class="spollers-about__text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rerum
+                        expedita quas inventore dicta quibusdam distinctio atque voluptatem ullam sint fuga alias
+                        corporis ex quaerat ipsa, laudantium facilis dolorum commodi voluptatibus magni sapiente natus
+                        omnis placeat non. Vitae eveniet et adipisci dolorem voluptatum, illum, magni praesentium
+                        corrupti quam suscipit beatae fugit?</div>
+                    </div>
+                    <div class="spollers-about__item">
+                      <button tabindex="-1" type="button" data-spoller class="spollers-about__title">Sint architecto
+                        iste ea nesciunt? Officiis neque praesentium
+                        asperiores facilis in ratione minus enim?</button>
+                      <div class="spollers-about__text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                        Nostrum, facere beatae excepturi minima, perferendis itaque ipsa cupiditate deserunt blanditiis
+                        veniam explicabo sed repudiandae quia voluptatem, minus impedit? Perferendis, veniam? Maxime
+                        voluptates aliquid inventore porro cupiditate maiores molestiae eligendi.</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="popular">
+        <div class="popular__container _container">
+          <div class="popular__top top">
+            <div class="popular__subtitle subtitle">New Products</div>
+            <div class="popular__title title">Popular Products</div>
+          </div>
+          <div class="popular__nav nav-popular">
+            <ul class="nav-popular__list">
+              <li data-filter="*" class="nav-popular__link _active">Recent arrival</li>
+              <li data-filter=".best" class="nav-popular__link">best sellers</li>
+              <li data-filter=".special" class="nav-popular__link">special offers</li>
+              <li data-filter=".featured" class="nav-popular__link">featured in</li>
+            </ul>
+          </div>
+          <div class="popular__body">
+            <div class="popular__content">
+              <div class="popular__card card-popular best">
+                <a href="#" class="card-popular__body">
+                  <div class="card-popular__image">
+                    <img src="img/popular/01.jpg" alt="">
+                  </div>
+                  <div class="card-popular__title">Apple mouse</div>
+                  <div class="card-popular__cost cost">
+                    <div class="cost__body">
+                      <div class="cost__main">189.99</div>
+                      <span class="cost__sub">214.99</span>
+                    </div>
+                  </div>
+                  <div class="card-popular__stars stars">
+                    <div class="stars__body">
+                      <div class="stars__star stars__star_big stars__star-red"></div>
+                      <div class="stars__star stars__star_big stars__star-red"></div>
+                      <div class="stars__star stars__star_big stars__star-red"></div>
+                      <div class="stars__star stars__star_big stars__star-red"></div>
+                      <div class="stars__star stars__star_big stars__star-red"></div>
+                    </div>
+                  </div>
+
+                  <div class="card-popular__items">
+                    <div class="card-popular__top">
+                      <ul class="card-popular__icons">
+                        <li><span href="#" class="card-popular__icon card-popular__icon_basket"></span>
+                        </li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_plus"></span>
+                        </li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_fav"></span>
+                        </li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_repl"></span>
+                        </li>
+                      </ul>
+                    </div>
+                    <div class="card-popular__bottom">
+                      <div class="card-popular__cost-small">
+                        <div class="card-popular__cost cost">
+                          <div class="cost__body">
+                            <div class="cost__main">189.99</div>
+                            <span class="cost__sub">214.99</span>
+                          </div>
+                        </div>
+                        <div class="card-popular__stars stars">
+                          <div class="stars__body">
+                            <div class="stars__star stars__star-red"></div>
+                            <div class="stars__star stars__star-red"></div>
+                            <div class="stars__star stars__star-red"></div>
+                            <div class="stars__star stars__star-red"></div>
+                            <div class="stars__star stars__star-red"></div>
+                          </div>
+                        </div>
+                      </div>
+                      <ul class="card-popular__colors">
+                        <li class="_active"><span class="card-popular__color card-popular__color_gray "></span></li>
+                        <li><span class="card-popular__color card-popular__color_black"></span></li>
+                        <li><span class="card-popular__color card-popular__color_blue"></span></li>
+                      </ul>
+                    </div>
+                  </div>
+
+                </a>
+              </div>
+              <div class="popular__card card-popular special">
+                <a href="#" class="card-popular__body">
+                  <div class="card-popular__image">
+                    <img src="img/popular/02.jpg" alt="">
+                  </div>
+                  <div class="card-popular__title">Black iPhone Speaker Super New Model</div>
+                  <div class="card-popular__cost cost">
+                    <div class="cost__body">
+                      <div class="cost__main">189.99</div>
+                      <span class="cost__sub">214.99</span>
+                    </div>
+                  </div>
+                  <div class="card-popular__stars stars">
+                    <div class="stars__body">
+                      <div class="stars__star stars__star_big stars__star-red"></div>
+                      <div class="stars__star stars__star_big stars__star-red"></div>
+                      <div class="stars__star stars__star_big stars__star-red"></div>
+                      <div class="stars__star stars__star_big stars__star-red"></div>
+                      <div class="stars__star stars__star_big stars__star-red"></div>
+                    </div>
+                  </div>
+
+                  <div class="card-popular__items">
+                    <div class="card-popular__top">
+                      <ul class="card-popular__icons">
+                        <li><span href="#" class="card-popular__icon card-popular__icon_basket"></span>
+                        </li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_plus"></span>
+                        </li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_fav"></span>
+                        </li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_repl"></span>
+                        </li>
+                      </ul>
+                    </div>
+                    <div class="card-popular__bottom">
+                      <div class="card-popular__cost-small">
+                        <div class="card-popular__cost cost">
+                          <div class="cost__body">
+                            <div class="cost__main">189.99</div>
+                            <span class="cost__sub">214.99</span>
+                          </div>
+                        </div>
+                        <div class="card-popular__stars stars">
+                          <div class="stars__body">
+                            <div class="stars__star stars__star-red"></div>
+                            <div class="stars__star stars__star-red"></div>
+                            <div class="stars__star stars__star-red"></div>
+                            <div class="stars__star stars__star-red"></div>
+                            <div class="stars__star stars__star-red"></div>
+                          </div>
+                        </div>
+                      </div>
+                      <ul class="card-popular__colors">
+                        <li class="_active"><span class="card-popular__color card-popular__color_gray "></span></li>
+                        <li><span class="card-popular__color card-popular__color_black"></span></li>
+                        <li><span class="card-popular__color card-popular__color_blue"></span></li>
+                      </ul>
+                    </div>
+                  </div>
+
+                </a>
+              </div>
+              <div class="popular__card card-popular featured">
+                <a href="#" class="card-popular__body">
+                  <div class="card-popular__image">
+                    <img src="img/popular/03.jpg" alt="">
+                  </div>
+                  <div class="card-popular__title">iOS Keyboard</div>
+                  <div class="card-popular__cost cost">
+                    <div class="cost__body">
+                      <div class="cost__main">189.99</div>
+                      <span class="cost__sub">214.99</span>
+                    </div>
+                  </div>
+                  <div class="card-popular__stars stars">
+                    <div class="stars__body">
+                      <div class="stars__star stars__star_big stars__star-red"></div>
+                      <div class="stars__star stars__star_big stars__star-red"></div>
+                      <div class="stars__star stars__star_big stars__star-red"></div>
+                      <div class="stars__star stars__star_big stars__star-red"></div>
+                      <div class="stars__star stars__star_big stars__star-red"></div>
+                    </div>
+                  </div>
+
+                  <div class="card-popular__items">
+                    <div class="card-popular__top">
+                      <ul class="card-popular__icons">
+                        <li><span href="#" class="card-popular__icon card-popular__icon_basket"></span>
+                        </li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_plus"></span>
+                        </li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_fav"></span>
+                        </li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_repl"></span>
+                        </li>
+                      </ul>
+                    </div>
+                    <div class="card-popular__bottom">
+                      <div class="card-popular__cost-small">
+                        <div class="card-popular__cost cost">
+                          <div class="cost__body">
+                            <div class="cost__main">189.99</div>
+                            <span class="cost__sub">214.99</span>
+                          </div>
+                        </div>
+                        <div class="card-popular__stars stars">
+                          <div class="stars__body">
+                            <div class="stars__star stars__star-red"></div>
+                            <div class="stars__star stars__star-red"></div>
+                            <div class="stars__star stars__star-red"></div>
+                            <div class="stars__star stars__star-red"></div>
+                            <div class="stars__star stars__star-red"></div>
+                          </div>
+                        </div>
+                      </div>
+                      <ul class="card-popular__colors">
+                        <li class="_active"><span class="card-popular__color card-popular__color_gray "></span></li>
+                        <li><span class="card-popular__color card-popular__color_black"></span></li>
+                        <li><span class="card-popular__color card-popular__color_blue"></span></li>
+                      </ul>
+                    </div>
+                  </div>
+
+                </a>
+              </div>
+              <div class="popular__card card-popular best">
+                <a href="#" class="card-popular__body">
+                  <div class="card-popular__image">
+                    <img src="img/popular/04.jpg" alt="">
+                  </div>
+                  <div class="card-popular__title">Mackbook Pro</div>
+                  <div class="card-popular__cost cost">
+                    <div class="cost__body">
+                      <div class="cost__main">189.99</div>
+                      <span class="cost__sub">214.99</span>
+                    </div>
+                  </div>
+                  <div class="card-popular__stars stars">
+                    <div class="stars__body">
+                      <div class="stars__star stars__star_big stars__star-red"></div>
+                      <div class="stars__star stars__star_big stars__star-red"></div>
+                      <div class="stars__star stars__star_big stars__star-red"></div>
+                      <div class="stars__star stars__star_big stars__star-red"></div>
+                      <div class="stars__star stars__star_big stars__star-red"></div>
+                    </div>
+                  </div>
+
+                  <div class="card-popular__items">
+                    <div class="card-popular__top">
+                      <ul class="card-popular__icons">
+                        <li><span href="#" class="card-popular__icon card-popular__icon_basket"></span>
+                        </li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_plus"></span>
+                        </li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_fav"></span>
+                        </li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_repl"></span>
+                        </li>
+                      </ul>
+                    </div>
+                    <div class="card-popular__bottom">
+                      <div class="card-popular__cost-small">
+                        <div class="card-popular__cost cost">
+                          <div class="cost__body">
+                            <div class="cost__main">189.99</div>
+                            <span class="cost__sub">214.99</span>
+                          </div>
+                        </div>
+                        <div class="card-popular__stars stars">
+                          <div class="stars__body">
+                            <div class="stars__star stars__star-red"></div>
+                            <div class="stars__star stars__star-red"></div>
+                            <div class="stars__star stars__star-red"></div>
+                            <div class="stars__star stars__star-red"></div>
+                            <div class="stars__star stars__star-red"></div>
+                          </div>
+                        </div>
+                      </div>
+                      <ul class="card-popular__colors">
+                        <li class="_active"><span class="card-popular__color card-popular__color_gray "></span></li>
+                        <li><span class="card-popular__color card-popular__color_black"></span></li>
+                        <li><span class="card-popular__color card-popular__color_blue"></span></li>
+                      </ul>
+                    </div>
+                  </div>
+
+                </a>
+              </div>
+              <div class="popular__card card-popular special featured">
+                <a href="#" class="card-popular__body">
+                  <div class="card-popular__image">
+                    <img src="img/popular/05.jpg" alt="">
+                  </div>
+                  <div class="card-popular__title">Black Headphone</div>
+                  <div class="card-popular__cost cost">
+                    <div class="cost__body">
+                      <div class="cost__main">189.99</div>
+                      <span class="cost__sub">214.99</span>
+                    </div>
+                  </div>
+                  <div class="card-popular__stars stars">
+                    <div class="stars__body">
+                      <div class="stars__star stars__star_big stars__star-red"></div>
+                      <div class="stars__star stars__star_big stars__star-red"></div>
+                      <div class="stars__star stars__star_big stars__star-red"></div>
+                      <div class="stars__star stars__star_big stars__star-red"></div>
+                      <div class="stars__star stars__star_big stars__star-red"></div>
+                    </div>
+                  </div>
+
+                  <div class="card-popular__items">
+                    <div class="card-popular__top">
+                      <ul class="card-popular__icons">
+                        <li><span href="#" class="card-popular__icon card-popular__icon_basket"></span>
+                        </li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_plus"></span>
+                        </li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_fav"></span>
+                        </li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_repl"></span>
+                        </li>
+                      </ul>
+                    </div>
+                    <div class="card-popular__bottom">
+                      <div class="card-popular__cost-small">
+                        <div class="card-popular__cost cost">
+                          <div class="cost__body">
+                            <div class="cost__main">189.99</div>
+                            <span class="cost__sub">214.99</span>
+                          </div>
+                        </div>
+                        <div class="card-popular__stars stars">
+                          <div class="stars__body">
+                            <div class="stars__star stars__star-red"></div>
+                            <div class="stars__star stars__star-red"></div>
+                            <div class="stars__star stars__star-red"></div>
+                            <div class="stars__star stars__star-red"></div>
+                            <div class="stars__star stars__star-red"></div>
+                          </div>
+                        </div>
+                      </div>
+                      <ul class="card-popular__colors">
+                        <li class="_active"><span class="card-popular__color card-popular__color_gray "></span></li>
+                        <li><span class="card-popular__color card-popular__color_black"></span></li>
+                        <li><span class="card-popular__color card-popular__color_blue"></span></li>
+                      </ul>
+                    </div>
+                  </div>
+
+                </a>
+              </div>
+              <div class="popular__card card-popular best featured">
+                <a href="#" class="card-popular__body">
+                  <div class="card-popular__image">
+                    <img src="img/popular/06.jpg" alt="">
+                  </div>
+                  <div class="card-popular__title">iPhone Speaker</div>
+                  <div class="card-popular__cost cost">
+                    <div class="cost__body">
+                      <div class="cost__main">189.99</div>
+                      <span class="cost__sub">214.99</span>
+                    </div>
+                  </div>
+                  <div class="card-popular__stars stars">
+                    <div class="stars__body">
+                      <div class="stars__star stars__star_big stars__star-red"></div>
+                      <div class="stars__star stars__star_big stars__star-red"></div>
+                      <div class="stars__star stars__star_big stars__star-red"></div>
+                      <div class="stars__star stars__star_big stars__star-red"></div>
+                      <div class="stars__star stars__star_big stars__star-red"></div>
+                    </div>
+                  </div>
+
+                  <div class="card-popular__items">
+                    <div class="card-popular__top">
+                      <ul class="card-popular__icons">
+                        <li><span href="#" class="card-popular__icon card-popular__icon_basket"></span>
+                        </li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_plus"></span>
+                        </li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_fav"></span>
+                        </li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_repl"></span>
+                        </li>
+                      </ul>
+                    </div>
+                    <div class="card-popular__bottom">
+                      <div class="card-popular__cost-small">
+                        <div class="card-popular__cost cost">
+                          <div class="cost__body">
+                            <div class="cost__main">189.99</div>
+                            <span class="cost__sub">214.99</span>
+                          </div>
+                        </div>
+                        <div class="card-popular__stars stars">
+                          <div class="stars__body">
+                            <div class="stars__star stars__star-red"></div>
+                            <div class="stars__star stars__star-red"></div>
+                            <div class="stars__star stars__star-red"></div>
+                            <div class="stars__star stars__star-red"></div>
+                            <div class="stars__star stars__star-red"></div>
+                          </div>
+                        </div>
+                      </div>
+                      <ul class="card-popular__colors">
+                        <li class="_active"><span class="card-popular__color card-popular__color_gray "></span></li>
+                        <li><span class="card-popular__color card-popular__color_black"></span></li>
+                        <li><span class="card-popular__color card-popular__color_blue"></span></li>
+                      </ul>
+                    </div>
+                  </div>
+
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="popular__bottom">
+            <a href="#" class="popular__arrow">view all</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="store">
+        <div class="store__container _container">
+          <div class="store__top top">
+            <div class="store__subtitle subtitle">New shop</div>
+            <div class="store__title title">An enormous storehouse of facts</div>
+            <div class="store__text">The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for
+              those interested.</div>
+          </div>
+          <div class="store__body">
+            <div class="store__content">
+              <div class="store__card card-store">
+                <a href="#" class="card-store__body">
+                  <div class="card-store__image">
+                    <img src="img/store/01.jpg" alt="">
+                  </div>
+                  <div class="card-store__items-top">
+                    <div class="card-store__top">
+                      <div class="card-popular__cost cost">
+                        <div class="cost__body">
+                          <div class="cost__main">189.99</div>
+                          <span class="cost__sub">214.99</span>
+                        </div>
+                      </div>
+                      <div class="card-popular__stars stars">
+                        <div class="stars__body">
+                          <div class="stars__star stars__star-red"></div>
+                          <div class="stars__star stars__star-red"></div>
+                          <div class="stars__star stars__star-red"></div>
+                          <div class="stars__star stars__star-red"></div>
+                          <div class="stars__star stars__star-red"></div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="card-store__items-bottom">
+                    <div class="card-store__bottom">
+                      <ul class="card-popular__icons">
+                        <li><span href="#" class="card-popular__icon card-popular__icon_basket"></span>
+                        </li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_plus"></span></li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_fav"></span></li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_repl"></span></li>
+                      </ul>
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <a href="#" class="store__card card-store">
+                <div class="card-store__body">
+                  <div class="card-store__image">
+                    <img src="img/store/02.jpg" alt="">
+                  </div>
+                  <div class="card-store__items-top">
+                    <div class="card-store__top">
+                      <div class="card-popular__cost cost">
+                        <div class="cost__body">
+                          <div class="cost__main">189.99</div>
+                          <span class="cost__sub">214.99</span>
+                        </div>
+                      </div>
+                      <div class="card-popular__stars stars">
+                        <div class="stars__body">
+                          <div class="stars__star stars__star-red"></div>
+                          <div class="stars__star stars__star-red"></div>
+                          <div class="stars__star stars__star-red"></div>
+                          <div class="stars__star stars__star-red"></div>
+                          <div class="stars__star stars__star-red"></div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="card-store__items-bottom">
+                    <div class="card-store__bottom">
+                      <ul class="card-popular__icons">
+                        <li><span href="#" class="card-popular__icon card-popular__icon_basket"></span>
+                        </li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_plus"></span></li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_fav"></span></li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_repl"></span></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </a>
+              <a href="#" class="store__card card-store">
+                <div class="card-store__body">
+                  <div class="card-store__image">
+                    <img src="img/store/03.jpg" alt="">
+                  </div>
+                  <div class="card-store__items-top">
+                    <div class="card-store__top">
+                      <div class="card-popular__cost cost">
+                        <div class="cost__body">
+                          <div class="cost__main">189.99</div>
+                          <span class="cost__sub">214.99</span>
+                        </div>
+                      </div>
+                      <div class="card-popular__stars stars">
+                        <div class="stars__body">
+                          <div class="stars__star stars__star-red"></div>
+                          <div class="stars__star stars__star-red"></div>
+                          <div class="stars__star stars__star-red"></div>
+                          <div class="stars__star stars__star-red"></div>
+                          <div class="stars__star stars__star-red"></div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="card-store__items-bottom">
+                    <div class="card-store__bottom">
+                      <ul class="card-popular__icons">
+                        <li><span href="#" class="card-popular__icon card-popular__icon_basket"></span>
+                        </li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_plus"></span></li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_fav"></span></li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_repl"></span></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </a>
+              <a href="#" class="store__card card-store">
+                <div class="card-store__body">
+                  <div class="card-store__image">
+                    <img src="img/store/04.jpg" alt="">
+                  </div>
+                  <div class="card-store__items-top">
+                    <div class="card-store__top">
+                      <div class="card-popular__cost cost">
+                        <div class="cost__body">
+                          <div class="cost__main">189.99</div>
+                          <span class="cost__sub">214.99</span>
+                        </div>
+                      </div>
+                      <div class="card-popular__stars stars">
+                        <div class="stars__body">
+                          <div class="stars__star stars__star-red"></div>
+                          <div class="stars__star stars__star-red"></div>
+                          <div class="stars__star stars__star-red"></div>
+                          <div class="stars__star stars__star-red"></div>
+                          <div class="stars__star stars__star-red"></div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="card-store__items-bottom">
+                    <div class="card-store__bottom">
+                      <ul class="card-popular__icons">
+                        <li><span href="#" class="card-popular__icon card-popular__icon_basket"></span>
+                        </li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_plus"></span></li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_fav"></span></li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_repl"></span></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </a>
+              <a href="#" class="store__card card-store">
+                <div class="card-store__body">
+                  <div class="card-store__image">
+                    <img src="img/store/05.jpg" alt="">
+                  </div>
+                  <div class="card-store__items-top">
+                    <div class="card-store__top">
+                      <div class="card-popular__cost cost">
+                        <div class="cost__body">
+                          <div class="cost__main">189.99</div>
+                          <span class="cost__sub">214.99</span>
+                        </div>
+                      </div>
+                      <div class="card-popular__stars stars">
+                        <div class="stars__body">
+                          <div class="stars__star stars__star-red"></div>
+                          <div class="stars__star stars__star-red"></div>
+                          <div class="stars__star stars__star-red"></div>
+                          <div class="stars__star stars__star-red"></div>
+                          <div class="stars__star stars__star-red"></div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="card-store__items-bottom">
+                    <div class="card-store__bottom">
+                      <ul class="card-popular__icons">
+                        <li><span href="#" class="card-popular__icon card-popular__icon_basket"></span>
+                        </li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_plus"></span></li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_fav"></span></li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_repl"></span></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </a>
+              <a href="#" class="store__card card-store">
+                <div class="card-store__body">
+                  <div class="card-store__image">
+                    <img src="img/store/07.jpg" alt="">
+                  </div>
+                  <div class="card-store__items-top">
+                    <div class="card-store__top">
+                      <div class="card-popular__cost cost">
+                        <div class="cost__body">
+                          <div class="cost__main">189.99</div>
+                          <span class="cost__sub">214.99</span>
+                        </div>
+                      </div>
+                      <div class="card-popular__stars stars">
+                        <div class="stars__body">
+                          <div class="stars__star stars__star-red"></div>
+                          <div class="stars__star stars__star-red"></div>
+                          <div class="stars__star stars__star-red"></div>
+                          <div class="stars__star stars__star-red"></div>
+                          <div class="stars__star stars__star-red"></div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="card-store__items-bottom">
+                    <div class="card-store__bottom">
+                      <ul class="card-popular__icons">
+                        <li><span href="#" class="card-popular__icon card-popular__icon_basket"></span>
+                        </li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_plus"></span></li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_fav"></span></li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_repl"></span></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </a>
+              <a href="#" class="store__card card-store">
+                <div class="card-store__body">
+                  <div class="card-store__image">
+                    <img src="img/store/06.jpg" alt="">
+                  </div>
+                  <div class="card-store__items-top">
+                    <div class="card-store__top">
+                      <div class="card-popular__cost cost">
+                        <div class="cost__body">
+                          <div class="cost__main">189.99</div>
+                          <span class="cost__sub">214.99</span>
+                        </div>
+                      </div>
+                      <div class="card-popular__stars stars">
+                        <div class="stars__body">
+                          <div class="stars__star stars__star-red"></div>
+                          <div class="stars__star stars__star-red"></div>
+                          <div class="stars__star stars__star-red"></div>
+                          <div class="stars__star stars__star-red"></div>
+                          <div class="stars__star stars__star-red"></div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="card-store__items-bottom">
+                    <div class="card-store__bottom">
+                      <ul class="card-popular__icons">
+                        <li><span href="#" class="card-popular__icon card-popular__icon_basket"></span>
+                        </li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_plus"></span></li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_fav"></span></li>
+                        <li><span href="#" class="card-popular__icon card-popular__icon_repl"></span></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="contact">
+        <div class="contact__container _container">
+          <div class="contact__body">
+            <div class="contact__column">
+              <div class="contact__content">
+                <div class="contact__subtitle subtitle">User Contact</div>
+                <div class="contact__title title">Contact Us for those interested.</div>
+                <div class="contact__text">The standard chunk of Lorem Ipsum used since the is reproduced below for
+                  those interested.</div>
+              </div>
+            </div>
+            <div class="contact__column">
+              <div class="contact__form subscrible">
+                <form action="#" class="subscrible__form" method="post">
+                  <input autocomplete="off" type="email" class="subscrible__input input" name="e_mail"
+                    placeholder="Enter your email address">
+                  <button type="submit" class="subscrible__button btn">SUBSCRIBE</button>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- @import "footer.html" -->
+
+      <div id="page-not-found" class="page-not-found__body">
+        <div class="page-not-found__title">OOPS!</div>
+        <div class="page-not-found__text">Page does not exist...</div>
+
+        <div class="page-not-found__image">
+          <img src="img/pnf.jpg" alt="">
+        </div>
+      </div>
+
+
+
+    </main>
+  </div>
+  <script src="js/vendors/dynamicAdapt.js"></script>
+  <script src="js/vendors/isotope.pkgd.min.js"></script>
+  <script src="js/vendors/choices.min.js"></script>
+  <script src="js/vendors/fancybox.umd.js"></script>
+  <script src="js/script.js"></script>
+</body>
+
+</html>
