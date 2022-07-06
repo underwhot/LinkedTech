@@ -302,13 +302,13 @@
                   <div class="card-popular__items">
                     <div class="card-popular__top">
                       <ul class="card-popular__icons">
-                        <li><span href="#" class="card-popular__icon card-popular__icon_basket"></span>
+                        <li><span class="card-popular__icon card-popular__icon_basket"></span>
                         </li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_plus"></span>
+                        <li><span class="card-popular__icon card-popular__icon_plus"></span>
                         </li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_fav"></span>
+                        <li><span class="card-popular__icon card-popular__icon_fav"></span>
                         </li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_repl"></span>
+                        <li><span class="card-popular__icon card-popular__icon_repl"></span>
                         </li>
                       </ul>
                     </div>
@@ -365,13 +365,13 @@
                   <div class="card-popular__items">
                     <div class="card-popular__top">
                       <ul class="card-popular__icons">
-                        <li><span href="#" class="card-popular__icon card-popular__icon_basket"></span>
+                        <li><span class="card-popular__icon card-popular__icon_basket"></span>
                         </li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_plus"></span>
+                        <li><span class="card-popular__icon card-popular__icon_plus"></span>
                         </li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_fav"></span>
+                        <li><span class="card-popular__icon card-popular__icon_fav"></span>
                         </li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_repl"></span>
+                        <li><span class="card-popular__icon card-popular__icon_repl"></span>
                         </li>
                       </ul>
                     </div>
@@ -428,13 +428,13 @@
                   <div class="card-popular__items">
                     <div class="card-popular__top">
                       <ul class="card-popular__icons">
-                        <li><span href="#" class="card-popular__icon card-popular__icon_basket"></span>
+                        <li><span class="card-popular__icon card-popular__icon_basket"></span>
                         </li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_plus"></span>
+                        <li><span class="card-popular__icon card-popular__icon_plus"></span>
                         </li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_fav"></span>
+                        <li><span class="card-popular__icon card-popular__icon_fav"></span>
                         </li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_repl"></span>
+                        <li><span class="card-popular__icon card-popular__icon_repl"></span>
                         </li>
                       </ul>
                     </div>
@@ -491,13 +491,13 @@
                   <div class="card-popular__items">
                     <div class="card-popular__top">
                       <ul class="card-popular__icons">
-                        <li><span href="#" class="card-popular__icon card-popular__icon_basket"></span>
+                        <li><span class="card-popular__icon card-popular__icon_basket"></span>
                         </li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_plus"></span>
+                        <li><span class="card-popular__icon card-popular__icon_plus"></span>
                         </li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_fav"></span>
+                        <li><span class="card-popular__icon card-popular__icon_fav"></span>
                         </li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_repl"></span>
+                        <li><span class="card-popular__icon card-popular__icon_repl"></span>
                         </li>
                       </ul>
                     </div>
@@ -554,13 +554,13 @@
                   <div class="card-popular__items">
                     <div class="card-popular__top">
                       <ul class="card-popular__icons">
-                        <li><span href="#" class="card-popular__icon card-popular__icon_basket"></span>
+                        <li><span class="card-popular__icon card-popular__icon_basket"></span>
                         </li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_plus"></span>
+                        <li><span class="card-popular__icon card-popular__icon_plus"></span>
                         </li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_fav"></span>
+                        <li><span class="card-popular__icon card-popular__icon_fav"></span>
                         </li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_repl"></span>
+                        <li><span class="card-popular__icon card-popular__icon_repl"></span>
                         </li>
                       </ul>
                     </div>
@@ -617,13 +617,13 @@
                   <div class="card-popular__items">
                     <div class="card-popular__top">
                       <ul class="card-popular__icons">
-                        <li><span href="#" class="card-popular__icon card-popular__icon_basket"></span>
+                        <li><span class="card-popular__icon card-popular__icon_basket"></span>
                         </li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_plus"></span>
+                        <li><span class="card-popular__icon card-popular__icon_plus"></span>
                         </li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_fav"></span>
+                        <li><span class="card-popular__icon card-popular__icon_fav"></span>
                         </li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_repl"></span>
+                        <li><span class="card-popular__icon card-popular__icon_repl"></span>
                         </li>
                       </ul>
                     </div>
@@ -700,11 +700,11 @@
                   <div class="card-store__items-bottom">
                     <div class="card-store__bottom">
                       <ul class="card-popular__icons">
-                        <li><span href="#" class="card-popular__icon card-popular__icon_basket"></span>
+                        <li><span class="card-popular__icon card-popular__icon_basket"></span>
                         </li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_plus"></span></li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_fav"></span></li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_repl"></span></li>
+                        <li><span class="card-popular__icon card-popular__icon_plus"></span></li>
+                        <li><span class="card-popular__icon card-popular__icon_fav"></span></li>
+                        <li><span class="card-popular__icon card-popular__icon_repl"></span></li>
                       </ul>
                     </div>
                   </div>
@@ -737,11 +737,11 @@
                   <div class="card-store__items-bottom">
                     <div class="card-store__bottom">
                       <ul class="card-popular__icons">
-                        <li><span href="#" class="card-popular__icon card-popular__icon_basket"></span>
+                        <li><span class="card-popular__icon card-popular__icon_basket"></span>
                         </li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_plus"></span></li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_fav"></span></li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_repl"></span></li>
+                        <li><span class="card-popular__icon card-popular__icon_plus"></span></li>
+                        <li><span class="card-popular__icon card-popular__icon_fav"></span></li>
+                        <li><span class="card-popular__icon card-popular__icon_repl"></span></li>
                       </ul>
                     </div>
                   </div>
@@ -774,11 +774,11 @@
                   <div class="card-store__items-bottom">
                     <div class="card-store__bottom">
                       <ul class="card-popular__icons">
-                        <li><span href="#" class="card-popular__icon card-popular__icon_basket"></span>
+                        <li><span class="card-popular__icon card-popular__icon_basket"></span>
                         </li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_plus"></span></li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_fav"></span></li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_repl"></span></li>
+                        <li><span class="card-popular__icon card-popular__icon_plus"></span></li>
+                        <li><span class="card-popular__icon card-popular__icon_fav"></span></li>
+                        <li><span class="card-popular__icon card-popular__icon_repl"></span></li>
                       </ul>
                     </div>
                   </div>
@@ -811,11 +811,11 @@
                   <div class="card-store__items-bottom">
                     <div class="card-store__bottom">
                       <ul class="card-popular__icons">
-                        <li><span href="#" class="card-popular__icon card-popular__icon_basket"></span>
+                        <li><span class="card-popular__icon card-popular__icon_basket"></span>
                         </li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_plus"></span></li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_fav"></span></li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_repl"></span></li>
+                        <li><span class="card-popular__icon card-popular__icon_plus"></span></li>
+                        <li><span class="card-popular__icon card-popular__icon_fav"></span></li>
+                        <li><span class="card-popular__icon card-popular__icon_repl"></span></li>
                       </ul>
                     </div>
                   </div>
@@ -848,11 +848,11 @@
                   <div class="card-store__items-bottom">
                     <div class="card-store__bottom">
                       <ul class="card-popular__icons">
-                        <li><span href="#" class="card-popular__icon card-popular__icon_basket"></span>
+                        <li><span class="card-popular__icon card-popular__icon_basket"></span>
                         </li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_plus"></span></li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_fav"></span></li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_repl"></span></li>
+                        <li><span class="card-popular__icon card-popular__icon_plus"></span></li>
+                        <li><span class="card-popular__icon card-popular__icon_fav"></span></li>
+                        <li><span class="card-popular__icon card-popular__icon_repl"></span></li>
                       </ul>
                     </div>
                   </div>
@@ -885,11 +885,11 @@
                   <div class="card-store__items-bottom">
                     <div class="card-store__bottom">
                       <ul class="card-popular__icons">
-                        <li><span href="#" class="card-popular__icon card-popular__icon_basket"></span>
+                        <li><span class="card-popular__icon card-popular__icon_basket"></span>
                         </li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_plus"></span></li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_fav"></span></li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_repl"></span></li>
+                        <li><span class="card-popular__icon card-popular__icon_plus"></span></li>
+                        <li><span class="card-popular__icon card-popular__icon_fav"></span></li>
+                        <li><span class="card-popular__icon card-popular__icon_repl"></span></li>
                       </ul>
                     </div>
                   </div>
@@ -922,11 +922,11 @@
                   <div class="card-store__items-bottom">
                     <div class="card-store__bottom">
                       <ul class="card-popular__icons">
-                        <li><span href="#" class="card-popular__icon card-popular__icon_basket"></span>
+                        <li><span class="card-popular__icon card-popular__icon_basket"></span>
                         </li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_plus"></span></li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_fav"></span></li>
-                        <li><span href="#" class="card-popular__icon card-popular__icon_repl"></span></li>
+                        <li><span class="card-popular__icon card-popular__icon_plus"></span></li>
+                        <li><span class="card-popular__icon card-popular__icon_fav"></span></li>
+                        <li><span class="card-popular__icon card-popular__icon_repl"></span></li>
                       </ul>
                     </div>
                   </div>
